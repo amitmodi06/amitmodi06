@@ -7,11 +7,16 @@ In ❤️ with Django: Passionately crafting sophisticated solutions with a fram
 
 
 
-### Connect with me:
-<a href="https://www.linkedin.com/in/amitkumark/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amitkumark/" height="30" width="40" />
-</a>
-<br><br>
+### Find me out at:
+<div align="left">
+  <a href="https://www.linkedin.com/in/amitkumark/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/amitkumark/" height="25" width="100" />
+  </a>&nbsp;
+  <a href="https://pypi.org/user/amitkumark/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="https://pypi.org/user/amitkumark/" height="25" width="80" />
+  </a>
+  <br><br>
+</div>
 
 
 
